@@ -26,3 +26,5 @@ Here are some Quick insights:
 
 📌 With the exception of one churned customer with an account balance between 1k and 10k, the majority of customers who churned had account balances greater than 
    200k
+
+For More Insights do check out the dashbaoard :)
